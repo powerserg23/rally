@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56375449598",
+    "firebase_url": "https://rally-fin20.firebaseio.com",
+    "project_id": "rally-fin20",
+    "storage_bucket": "rally-fin20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56375449598:android:3e4386d1e442f6e60392af",
+        "android_client_info": {
+          "package_name": "com.example.rally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56375449598-ajb5qpmhj7hoq4cu0a8g60kt56qdebbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Gzk4BdPcDDhijXo2Yrmew_Bd-om2bK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56375449598-ajb5qpmhj7hoq4cu0a8g60kt56qdebbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
