@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">40dp</dimen>
+    <dimen name="list_title_width">300dp</dimen>
+    <dimen name="list_cost_width">50dp</dimen>
+
+</resources>
