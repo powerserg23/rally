@@ -1,20 +1,21 @@
 package com.example.rally.models;
 
+import java.util.Calendar;
 import java.util.Date;
 
 public class Purchase {
     private String item;
     private double price;
-    private Date date;
-    private String tag;
+    private Calendar date;
+    //private String tag;
     private String PURCHASE_ID;
 
     //Constructors
-    public Purchase(String item, double price, Date date, String tag) {
+    public Purchase(String item, double price, Calendar date) {
         this.item = item;
         this.price = price;
         this.date = date;
-        this.tag = tag;
+        //this.tag = tag;
     }
 
     //"set" functions
@@ -26,7 +27,7 @@ public class Purchase {
         this.price = price;
     }
 
-    public void setDate(Date date) {
+    public void setDate(Calendar date) {
         this.date = date;
     }
 
@@ -44,7 +45,7 @@ public class Purchase {
         return price;
     }
 
-    public Date getDate() {
+    public Calendar getDate() {
         return date;
     }
 
